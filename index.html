@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Something</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="/index.css" />
+    <script
+      src="https://kit.fontawesome.com/de305942e5.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body>
+    <div class="top-info">
+      <span class="js-weather"></span>
+      <div class="js-temperature temperature">
+        <span>
+          <i class="fas fa-thermometer-half"></i>
+        </span>
+        <div class="js-temperatureInfo"></div>
+      </div>
+      <div class="js-place place">
+        <span>
+          <i class="fas fa-map-marker-alt"></i>
+        </span>
+        <div class="js-placeInfo"></div>
+      </div>
+    </div>
+    <div class="center__above">
+      <div class="js-clock clock">
+        <h1>00:00</h1>
+      </div>
+      <form class="js-form form">
+        <input type="text" placeholder="what is your name?" />
+      </form>
+      <h4 class="js-greetings greetings"></h4>
+      <form class="js-todoForm todoForm">
+        <input type="text" placeholder="Write a to do" />
+      </form>
+      <div class="js-toDo toDo">
+        <ul class="js-toDoList todoList"></ul>
+      </div>
+    </div>
+    <script src="clock.js"></script>
+    <script src="gretting.js"></script>
+    <script src="todo.js"></script>
+    <script src="bg.js"></script>
+    <script src="weather.js"></script>
+  </body>
+</html>
