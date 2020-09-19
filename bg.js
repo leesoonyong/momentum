@@ -4,7 +4,7 @@ const IMG_NUMBER = 3;
 
 function paintImage(imgNumber) {
   const image = new Image();
-  image.src = `/imags/${imgNumber + 1}.jpg`;
+  image.src = `/momentum/imags/${imgNumber + 1}.jpg`;
   image.classList.add("bgImage");
   body.appendChild(image);
 }
