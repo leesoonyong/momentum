@@ -6,7 +6,7 @@
 
 실행 페이지 : (https://leesoonyong.github.io/momentum/)
 
-![자바스크립트 미니프로젝트](https://user-images.githubusercontent.com/44168355/93973718-a0f90580-fdaf-11ea-924e-8855eb45921f.png)
+![모멘텀](https://user-images.githubusercontent.com/44168355/93975300-3a291b80-fdb2-11ea-9485-59bf73e0f4ab.png)
 
 
 
